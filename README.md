@@ -1,4 +1,4 @@
-# TeX-Styling-Power-BI
+# Ti*k*Z-Styling-Maple
 
 Styling Maple graphics with TikZ and LaTeX.
 

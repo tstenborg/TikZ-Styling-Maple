@@ -1,4 +1,13 @@
 
+% This LaTeX file takes a bare input graph and applies axes, tickmarks, labels,
+% etc., via TikZ and LaTeX.
+%
+% This approach is intended to allow user-customisable formatting of an input
+% graph, beyond the limitations of the graph generating software (e.g., Maple.)
+%
+% The output PDF can be cropped via pdfcrop, included in most TeX distributions.
+% N.B. pdfcrop assumes Perl is installed.
+
 \documentclass{article}
 \usepackage{graphicx}   % Miscellaneous graphical support.
 \usepackage{tikz}   % Vector graphics support.

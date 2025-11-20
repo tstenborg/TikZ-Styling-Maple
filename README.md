@@ -29,4 +29,4 @@ N.B. A plain text version of the Maple source code appears in graph_Maple_Distri
 
 ### Reference
 
-Stenborg, T 2025, "Styling Maple graphics with Ti*k*Z and LaTeX", TUGboat, vol. 46, no. 3, in press.
+Stenborg, T 2025, "Styling Maple graphics with Ti*k*Z and LaTeX", TUGboat, vol. 46, no. 3, pp. 379&ndash;380.
